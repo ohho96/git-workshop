@@ -87,12 +87,12 @@ This keyword is **bold**
 
 :point_right: **Task 22**: Create a new branch named `content_update`
 ```
-$ git branch imporve_content
+$ git branch content_update
 ```
 
 :point_right: **Task 23**: checkout `content_update` branch
 ```
-$ git checkout imporve_content
+$ git checkout content_update
 ```
 
 :point_right: **Task 24**: Add the followin to the README
